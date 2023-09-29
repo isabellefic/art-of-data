@@ -1,13 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Isabelle Fic | Horace Mann School
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Isabelle Fic. I am in Feingold's E period Art of Data class.
 
 What else do you need?
 
