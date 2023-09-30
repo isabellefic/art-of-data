@@ -2,9 +2,9 @@
 layout: post
 title: Digimon
 subtitle: Lab 1
-cover-img: /assets/img/DigimonBackground.jpg
+cover-img: /assets/img/DigimonBackground.png
 thumbnail-img: /assets/img/DigimonLogo.png
-share-img: /assets/img/DigimonBackground.jpg
+share-img: /assets/img/DigimonBackground.png
 tags: [digimon,labs]
 ---
 
