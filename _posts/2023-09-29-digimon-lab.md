@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Digimon Lab
+title: Digimon
 subtitle: Lab 1
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/DigimonBackground.jpg
 thumbnail-img: /assets/img/DigimonLogo.png
-share-img: /assets/img/path.jpg
-tags: [digimon]
+share-img: /assets/img/DigimonBackground.jpg
+tags: [digimon,labs]
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and
