@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Isabelle Fic - Art of Data Website
+title: Isabelle Fic: Art of Data 2023-2024
 
 # Your name to show in the footer
 author: Isabelle Fic
@@ -89,10 +89,11 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  github: true
-  twitter: false
   facebook: true
+  github: true
+  twitter: true
   linkedin: true
+  instagram: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -128,17 +129,18 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#CCD2FF"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#000000"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#FFFFFF"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+#footer-hover-col: "#0085A1"
+footer-hover-col: "1155CC"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
