@@ -19,3 +19,5 @@ The data collected in this experiment was the number of children with and withou
 ![PeanutStudyGraph](https://isabellefic.github.io/art-of-data/assets/img/PeanutStudyGraph.jpeg)
 
 The data set references many studies and scientific articles, all of which are linked at the bottom of the study and are available to the public. While there are a few conflicts of interest in terms of funding and the background of the researchers in the study, it does not appear that publish or perish had an enormous effect on this study. Since there were many researchers from many different institutions, “publish or perish” likely would not have impacted every researcher in the same way, as it could have if they were all working for the same company and wanted their research to make a particular conclusion.
+
+Here is the link to the study: [https://www.nejm.org/doi/full/10.1056/nejmoa1414850](https://www.nejm.org/doi/full/10.1056/nejmoa1414850)
