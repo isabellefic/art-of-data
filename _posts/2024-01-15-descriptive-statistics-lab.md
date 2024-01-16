@@ -40,3 +40,11 @@ Finally, one more simple graph that I plotted was a graph exclusively of world s
 ![Graph7](https://isabellefic.github.io/art-of-data/assets/img/lab3/7.png)
 
 From this graph I learned that for the New York Yankees to have the highest chance of winning the world series, they need to win their division first. 😀
+
+
+Sources:
+* **Dataset: https://www.openintro.org/data/index.php?data=mlb_teams**
+* https://seaborn.pydata.org/api.html
+* https://pandas.pydata.org/docs/user_guide/index.html
+* https://www.educative.io/answers/how-do-we-use-pandas-dataframediv-method-in-python#
+* https://www.einblick.ai/python-code-examples/rotate-axis-tick-labels-seaborn-matplotlib-customization/
