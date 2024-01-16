@@ -3,7 +3,7 @@ layout: post
 title: Descriptive Statistics - Baseball
 subtitle: Lab 3
 cover-img: /assets/img/lab3/BaseballBackground.jpg
-thumbnail-img: /assets/img/BaseballLogo.png
+thumbnail-img: /assets/img/lab3/BaseballLogo.png
 tags: [baseball,labs]
 ---
 
@@ -23,15 +23,18 @@ However, home runs scored could not be the sole reason for a strong performing t
 
 I also calculated the on-base percentage of each team, which is the number of times they got on base divided by the number of at-bats. I then calculated the slugging percentage, which is the total number of bases per at-bat. After I had the on-base percentage and the slugging percentage, I added them together to get the OPS (OBS + slugging). After I had calculated the OPS, I graphed that against the number of runs scored and saw a strong relation between the two variables.
 ![Graph5](https://isabellefic.github.io/art-of-data/assets/img/lab3/5.png)
+
 I also noticed that there were a few outliers in this graph which certainly affected the correlation, which was only 0.71. Aside from those outliers, there was a strong visible correlation between these two variables.
 
 I also plotted a histogram of the hits per game to see the shape of the distribution of the graph and it looks fairly normal.
 ![Graph6](https://isabellefic.github.io/art-of-data/assets/img/lab3/6.png)
+
 There are a few data points that lie to the right of the main curve so the data is slightly skewed right; however, it is a mostly normal distribution.
 
 One limitation of this dataset is the fact that some of the data from the early years of the MLB is missing. They did not have a world series or divisions, and they did not record stolen bases, sacrifice flies, and other pieces of information.
 
 Finally, one more simple graph that I plotted was a graph exclusively of world series winners. I graphed the number of the world series winners that were also the winner of their division.
+
 ![Graph7](https://isabellefic.github.io/art-of-data/assets/img/lab3/7.png)
 
 From this graph I learned that for the New York Yankees to have the highest chance of winning the world series, they need to win their division first. 😀
