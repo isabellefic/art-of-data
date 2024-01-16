@@ -23,15 +23,15 @@ Once I saw that these graphs were very similar, I thought about factors that cou
 However, home runs scored could not be the sole reason for a strong performing team; so, I decided to create a similar pair of graphs of the number of hits per game to see if that had a larger impact on world series winners. These graphs showed a larger difference between world series winners and non-world series winners. The median hits per game is 9.21 in series winners and 8.83 in non-series winners.
 ![Graph4](https://isabellefic.github.io/art-of-data/assets/img/lab3/4.png)
 
-I also calculated the on-base percentage of each team, which is the number of times they got on base divided by the number of at-bats. I then calculated the slugging percentage, which is the total number of bases per at-bat. After I had the on-base percentage and the slugging percentage, I added them together to get the OPS (OBS + slugging). After I had calculated the OPS, I graphed that against the number of runs scored and saw a strong relation between the two variables.
-![Graph5](https://isabellefic.github.io/art-of-data/assets/img/lab3/5.png)
-
-I also noticed that there were a few outliers in this graph which certainly affected the correlation, which was only 0.71. Aside from those outliers, there was a strong visible correlation between these two variables.
-
 I also plotted a histogram of the hits per game to see the shape of the distribution of the graph and it looks fairly normal.
 ![Graph6](https://isabellefic.github.io/art-of-data/assets/img/lab3/6.png)
 
 There are a few data points that lie to the right of the main curve so the data is slightly skewed right; however, it is a mostly normal distribution.
+
+I also calculated the on-base percentage of each team, which is the number of times they got on base divided by the number of at-bats. I then calculated the slugging percentage, which is the total number of bases per at-bat. After I had the on-base percentage and the slugging percentage, I added them together to get the OPS (OBS + slugging). After I had calculated the OPS, I graphed that against the number of runs scored and saw a strong relation between the two variables.
+![Graph5](https://isabellefic.github.io/art-of-data/assets/img/lab3/5.png)
+
+I also noticed that there were a few outliers in this graph which certainly affected the correlation, which was only 0.71. Aside from those outliers, there was a strong visible correlation between these two variables.
 
 One limitation of this dataset is the fact that some of the data from the early years of the MLB is missing. They did not have a world series or divisions, and they did not record stolen bases, sacrifice flies, and other pieces of information.
 
