@@ -43,8 +43,8 @@ From this graph I learned that for the New York Yankees to have the highest chan
 
 
 Sources:
-* **Dataset: https://www.openintro.org/data/index.php?data=mlb_teams**
-* https://seaborn.pydata.org/api.html
-* https://pandas.pydata.org/docs/user_guide/index.html
-* https://www.educative.io/answers/how-do-we-use-pandas-dataframediv-method-in-python#
-* https://www.einblick.ai/python-code-examples/rotate-axis-tick-labels-seaborn-matplotlib-customization/
+* **Dataset: [https://www.openintro.org/data/index.php?data=mlb_teams](https://www.openintro.org/data/index.php?data=mlb_teams)**
+* [https://seaborn.pydata.org/api.html](https://seaborn.pydata.org/api.html)
+* [https://pandas.pydata.org/docs/user_guide/index.html](https://pandas.pydata.org/docs/user_guide/index.html)
+* [https://www.educative.io/answers/how-do-we-use-pandas-dataframediv-method-in-python#](https://www.educative.io/answers/how-do-we-use-pandas-dataframediv-method-in-python#)
+* [https://www.einblick.ai/python-code-examples/rotate-axis-tick-labels-seaborn-matplotlib-customization/](https://www.einblick.ai/python-code-examples/rotate-axis-tick-labels-seaborn-matplotlib-customization/)
