@@ -12,9 +12,11 @@ I worked with a dataset about MLB baseball teams. The dataset shows a lot of sta
 I am interested in looking at the statistics of world series winners vs non-world series winners to see what strengths a team needs to have to be able to advance to the World Series, specifically the Yankees :).
 
 The first factor that I thought might influence a team’s chances at the world series is the # of home runs that they score in a season. However, since the dataset includes teams from the 19th century where they were playing only between 60 and 100 games per season (compared to the 162 games per season now), I calculated the number of home runs per game instead of just plotting the number of home runs which would result in a much larger range of data and could drag down the mean and median of both the world series and non-world series winners. Despite the consideration for the fewer games in earlier seasons, these graphs look pretty similar. The number of home runs per game is only slightly higher in world series winners compared to non-world series winners.
+
 ![Graph1](https://isabellefic.github.io/art-of-data/assets/img/lab3/1.png)
 
 Once I saw that these graphs were very similar, I thought about factors that could be increasing the number of home runs per game for the non-world series winners. One factor that came to mind was that playoff teams that were still very good were counted in the non-world series winners. To repair this issue, I made graphs for both playoff and non playoff teams instead of world series winners. These graphs showed that playoff teams were scoring slightly more home runs with a median of 0.93 compared to a median of 0.90.
+
 ![Graph2](https://isabellefic.github.io/art-of-data/assets/img/lab3/2.png)
 ![Graph3](https://isabellefic.github.io/art-of-data/assets/img/lab3/3.png)
 
